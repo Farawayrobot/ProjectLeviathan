@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inhabitants/The Three Siblings/Paranaus.md",
+                "file": "inhabitants/The Three Siblings/Paranaus Offspring/The Enlightened Masters.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inhabitants/The Three Siblings/Paranaus.md",
+                "file": "inhabitants/The Three Siblings/Paranaus Offspring/The Enlightened Masters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inhabitants/The Three Siblings/Paranaus.md",
+                "file": "inhabitants/The Three Siblings/Paranaus Offspring/The Enlightened Masters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inhabitants/The Three Siblings/Paranaus.md"
+                "file": "inhabitants/The Three Siblings/Paranaus Offspring/The Enlightened Masters.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "6bd245803909b0b7",
   "lastOpenFiles": [
+    "inhabitants/The Three Siblings/Paranaus.md",
+    "inhabitants/The Three Siblings/Paranaus Offspring/The Enlightened Masters.md",
+    "inhabitants/The Three Siblings/Draconic Offspring",
+    "inhabitants/The Three Siblings/Paranaus Offspring",
+    "inhabitants/The Three Siblings/Dragons.md",
     "inhabitants/Humanoids/Dreamfolk.md",
     "Uploads",
     "inhabitants/Humanoids/Elves.md",
     "inhabitants/Humanoids/Uruk.md",
-    "inhabitants/The Three Siblings/Paranaus.md",
     "inhabitants/Humanoids",
     "inhabitants/The Three Siblings",
     "inhabitants/Beasts",
@@ -160,7 +164,6 @@
     "Magicks",
     "History and Myth",
     "Places",
-    "People/Untitled",
-    "inhabitants"
+    "People/Untitled"
   ]
 }
