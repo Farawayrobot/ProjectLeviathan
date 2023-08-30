@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "e5fcaa8aa4a6b000",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b787029c27dc5b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b438c083ca85bafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-08-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4ddca560fa27504",
+    "type": "split",
+    "children": [
+      {
+        "id": "6777384b4975bb49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d81c4c86fc51c377",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a76cc457cddc4964",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e44d9a51df338312",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "445b2976a3b6557a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4e33a49a3b9da3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84b092ed51467081",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-08-29.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fb706bad0706c3dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-08-29.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73bc0d7fad1f7e4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "06a7bb156f8d5a25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-08-29.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b438c083ca85bafb",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "2023-08-29.md",
+    "Project Leviathan/inhabitants/The Three Siblings/Paranaus Offspring/The Enlightened Masters.md",
+    "Project Leviathan/inhabitants/Humanoids/Elves.md",
+    "Project Leviathan/History and Myth/Creation Myth.md"
+  ]
+}
